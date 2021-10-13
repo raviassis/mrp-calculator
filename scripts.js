@@ -95,7 +95,7 @@ const lapiseira = {
     estoqueSeguranca: 0,
     estoqueInicial: 500,
     recebimentosProgramados: [0, 600, 0, 0, 0, 0, 0, 0],
-    necessidadesBrutas: [200, 200, 200, 200, 200, 200, 200, 200],
+    necessidadesBrutas: [300, 300, 300, 300, 300, 300, 300, 300],
     multiplicador: 1,
     unidadeMedida: UnidadeMedidaEnum.UNIDADE,
     itensFilhos: [

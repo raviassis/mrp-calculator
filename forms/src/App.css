@@ -1,10 +1,26 @@
+.container {
+  margin-bottom: 100px;
+}
+
+.container form > * { 
+  margin-bottom: 20px ;
+}
+
+.dialog > * { 
+  margin-bottom: 30px ;
+  border-bottom: 2px solid black;
+  border-top: 2px solid black;
+}
+
+
+
 /* 64ac15 */
-*,
+/* *,
 *:before,
 *:after {
   box-sizing: border-box;
-}
-div#root {
+} */
+/* div#root {
   padding: 1em;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 15px;
@@ -128,4 +144,4 @@ div#actionButtons button:hover:not(:disabled) {
 
 div#actionButtons button:disabled {
   color: #949292;
-}
+} */
